@@ -1,2 +1,4 @@
     name: Site Study
     markdown: kramdown
+
+    permalink: /archive/:year/:month/:day/:title
